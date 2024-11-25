@@ -26,9 +26,6 @@ This project is a full-featured **Real-Time Chat Application** built with the **
 - **Error Handling**:  
   Comprehensive error management on both client and server sides to ensure stability.
 
-- **Deployment Ready**:  
-  Guidance included for deploying the application to free hosting platforms like **Render**, **Vercel**, or **Netlify**.
-
 ---
 
 ## 📦 Project Setup
