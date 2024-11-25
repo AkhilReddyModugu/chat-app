@@ -1,4 +1,4 @@
-# 🌟 Real-Time Chat Application
+# 🌟 MERN stack Chat Application
 
 This project is a full-featured **Real-Time Chat Application** built with the **MERN stack** and **Socket.io**, designed for smooth real-time communication. Styled using **Tailwind CSS** and **Daisy UI**, the app incorporates modern technologies for an intuitive and efficient user experience.
 
